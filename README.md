@@ -1,31 +1,37 @@
-# 🛡️ DSC Protect
-> **Par pierrebglinux — Sécurisons Discord ensemble.**
+# 🛡️ DSC Protect (pierrebglinux)
+> **Un bien commun pour sécuriser Discord — Archive Ouverte.**
 
-**DSC Protect** n'est pas juste un bot, c'est un projet communautaire open source. L'objectif est simple : mettre en commun nos forces et notre code pour que chaque serveur Discord, petit ou grand, puisse bénéficier d'une protection robuste, transparente et gratuite.
+**DSC Protect** était un bot Discord développé en **TypeScript**. Ce code est désormais offert à la communauté en tant que ressource libre. Il n'appartient à personne et est mis à disposition pour que chacun puisse s'en servir de base pour protéger ses propres communautés.
 
-## 🤝 La Philosophie
-Le code est ouvert car la sécurité ne devrait pas être un secret. 
-* **Sécuriser ensemble :** En partageant le code, nous permettons à chacun de l'auditer, de l'améliorer et de corriger les failles.
-* **Transparence totale :** Vous savez exactement comment vos données sont traitées.
-* **Liberté :** Pas de fonctions cachées derrière un mur payant. Le bot appartient à ceux qui le font vivre.
+## 🤝 Un code libre pour tous
+Ce dépôt est une bibliothèque de solutions techniques mise à disposition de tous :
+* **Utilisation Libre :** Servez-vous librement dans le code pour vos propres projets.
+* **Archive Statique :** Ce dépôt n'accepte pas de Pull Requests ou de modifications. Si vous souhaitez faire évoluer le bot, vous êtes encouragés à le **forker**.
+* **Autonomie :** L'objectif est de fournir les outils nécessaires pour que chaque administrateur puisse sécuriser son serveur de manière indépendante.
 
 ## ⚖️ Licence (GPLv3)
 
-Ce projet est protégé par la licence **GNU General Public License v3.0**.
+Ce projet est distribué sous la licence **GNU General Public License v3.0**.
 
-**Copyright (C) DSC Protect by pierrebglinux**
+**Copyright (C) DSC Protect**
 
-En utilisant cette licence, nous nous assurons que **DSC Protect** restera toujours libre. Si vous améliorez ce bot, la licence vous oblige à repartager vos améliorations avec la communauté. C'est ainsi que nous progressons tous ensemble.
+La licence **GPLv3** garantit que ce code restera toujours libre. Vous pouvez le copier et le modifier, mais vos versions dérivées devront elles aussi rester open source et gratuites. C'est la seule condition pour que ce bien commun le reste pour toujours.
 
 ---
 
-## 🛠️ Stack Technique
+## 🛠️ Pile Technique
 
-Le bot est bâti sur des technologies modernes pour garantir performance et sécurité :
-* **Language :** [TypeScript](https://www.typescriptlang.org/) (pour un code robuste et typé)
+* **Langage :** [TypeScript](https://www.typescriptlang.org/)
 * **Runtime :** [Node.js](https://nodejs.org/)
-* **Librairie :** [Discord.js](https://discord.js.org/)
+* **Bibliothèque :** [Discord.js](https://discord.js.org/)
 
-## 🚀 Installation (Auto-hébergement)
+## 🚀 Comment utiliser ce code ?
 
-Nous encourageons l'auto-hébergement pour une souveraineté totale sur vos données.
+Puisque ce dépôt est désormais une archive :
+1. **Forkez** le projet sur votre propre compte GitHub.
+2. **Clonez** votre version personnelle pour accéder aux sources.
+3. **Développez** votre propre solution à partir de cette base.
+
+---
+**_« Le code est libre. La sécurité de Discord ne sera jamais le fruit d'un seul, mais de tous. 
+Parce que l'Open Source est notre meilleure défense. »_**
